@@ -1,0 +1,1 @@
+{"name":"alpresul-dependency2","version":"1.0.0","description":"dependency2","repositoryLayout":{"formatVersion":4,"format":"json","objectStorage":"plain","metaInformation":".gctsmetadata/","tableContent":"true"},"dependencies":[{"name":"dependency 1","url":"https://github.com/alpresul/dependency1"}]}
